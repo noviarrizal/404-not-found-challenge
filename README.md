@@ -6,8 +6,8 @@ Solution for challenge from [devChallenges.io](https://devchallenges.io/)
 
 ## Overview
 
-![Desktop screenshot](img/desktop.jpg)
-![Mobile screenshot](img/mobile.jpg)
+![Desktop screenshot](./img/desktop.JPG)
+![Mobile screenshot](./img/mobile.JPG)
 
 ## Built With
 
