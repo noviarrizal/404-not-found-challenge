@@ -2,7 +2,7 @@
 
 Solution for challenge from [devChallenges.io](https://devchallenges.io/)
 
-# [Demo](https://devchallenges.io/)|[Challenge](https://devchallenges.io/)
+# [Demo](https://noviarrizal.github.io/404-not-found-challenge/)|[Challenge](https://devchallenges.io/)
 
 ## Overview
 
